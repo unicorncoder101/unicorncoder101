@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer; full stack sometimes.
 -----------------------------------------
 
-My passion is to create simple yet scalable applications which are both intuitive and visually stunning for the user.
+I enjoy creating software applications that are both visually stunning and intuitive for the user. 
 
 * 🌍  I'm based in Texas y'all!
 * 🧠  I'm learning the MERN stack and scalable cloud based applications.
