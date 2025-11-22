@@ -8,7 +8,7 @@ I enjoy creating software applications that are both visually stunning and intui
 
 * 🌍  I'm based in Texas y'all!
 * 🧠  MEAN stack and scalable cloud based applications.
-* 🤝  Oen to collaborating on projects
+* 🤝  Open to collaborating on projects
 * 💡  Digital solutions enthusiast! 
 
 ### Skills
