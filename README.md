@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maddie
 ==============================================================================================================================
 
-Full stack sometimes.
+Fullstack Developer.
 -----------------------------------------
 
 I enjoy creating software applications that are both visually stunning and intuitive for the user. 
 
 * 🌍  I'm based in Texas y'all!
-* 🧠  I'm learning the MERN stack and scalable cloud based applications.
-* 🤝  I'm open to collaborating on frontend projects
-* ⚡  Developer by day. Unicorn by night. . . no more no less.
+* 🧠  MEAN stack and scalable cloud based applications.
+* 🤝  Oen to collaborating on projects
+* 💡  Digital solutions enthusiast! 
 
 ### Skills
 
